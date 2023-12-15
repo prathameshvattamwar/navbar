@@ -92,6 +92,7 @@ header:hover::after{
 @media (max-width: 768px) {
     .logo{
         font-size:1.5rem;
+    }
     .icons{
         display: inline-flex;
     }
